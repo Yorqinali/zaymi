@@ -1,0 +1,12 @@
+.container{
+  width: 379px;
+  height:490px;
+  border:1px solid;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-image: url(./17955-68-1.webp);
+  background-repeat: no-repeat;
+  position:relative;
+  background-position: center;
+}

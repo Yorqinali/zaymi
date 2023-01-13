@@ -1,0 +1,49 @@
+.zaymi{
+  width: 1440px;
+height: 5755px;
+margin: 0 auto;
+border: 1px solid;
+}
+
+header{
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+nav{
+  display: flex;
+  justify-content:space-between;
+  width: 100%;
+  height: 71px;
+  border: 1px solid;
+}
+.menu{
+  display: flex;
+  justify-content:space-between;
+  list-style: none;
+  font-family: 'Mazzard';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+
+color: #3B4244;
+
+}
+.logo{
+  border: 1px solid;
+  display: inline-block;
+}
+.nav-button{
+  width: 182px;
+  height: 71px;
+  background: #00BDA0;
+  font-family: 'Mazzard';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 15px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #F2FCFF;
+}
